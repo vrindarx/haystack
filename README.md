@@ -1,3 +1,5 @@
+This is a simple fixed version Haystack by Lanchon to work with macOS.
+
 # Haystack
 ## Signature Spoofing Patcher for Android
 
